@@ -5,7 +5,6 @@ Rentomojo is an online rental platform that provides furniture, appliances and e
 In this project we have made the foolowing things :
  - Home Page
  - Navbar
- - Admin Page
  - Signup Page
  - Various project Pages
  - Cart Page
